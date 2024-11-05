@@ -1,0 +1,19 @@
+{
+  "albums": [
+    {
+      "name": "Slim Shady LP",
+      "year": 1999,
+      "url": "https://i1.sndcdn.com/artworks-HcSvF8q9eUgxOy3q-EyaSzw-t500x500.jpg"
+    },
+    {
+      "name": "The Marshall Mathers LP",
+      "year": 2000,
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/ae/The_Marshall_Mathers_LP.jpg"
+    },
+    {
+      "name": "The Eminem Show",
+      "year": 2002,
+      "url": "https://cdns-images.dzcdn.net/images/cover/ec3c8ed67427064c70f67e5815b74cef/0x1900-000000-80-0-0.jpg"
+    }
+  ]
+}
